@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702500039 source:d:\c++ projektai\1.4 sodininkai\main.cpp
+	<fstream>
+	<iostream>
+	<algorithm>
+

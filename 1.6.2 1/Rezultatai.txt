@@ -1,0 +1,5 @@
+Iš viso gyventojų gatvėje: 34
+Kairiosios gatvės pusėje gyvena: 20 gyventojai
+Dešiniosios gatvės pusėje gyvena: 14 gyventojai
+Vidutiniškai kairiosios gatvės pusėje gyvena: 4.00 gyventojai
+Vidutiniškai dešiniosios gatvės pusėje gyvena: 2.80 gyventojai

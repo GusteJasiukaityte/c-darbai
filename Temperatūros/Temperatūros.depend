@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1695487359 source:d:\c++ projektai\temperatûros\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+

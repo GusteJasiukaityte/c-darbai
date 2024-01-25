@@ -1,0 +1,5 @@
+V klasės mokinių vidutinis ūgis: 172.57 cm
+V klasės merginų vidutinis ūgis: 172.57 cm
+V klasės vaikinų vidutinis ūgis: -179.67 cm
+Merginų komanda: Sudaryti negalima
+Vaikinų komanda: Sudaryti negalima

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695293408 source:d:\c++ projektai\prekyba ledais\main.cpp
+	<iostream>
+	<fstream>
+

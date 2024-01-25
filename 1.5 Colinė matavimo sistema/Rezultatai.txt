@@ -1,0 +1,6 @@
+                       Rezultatai
+Metrai: 1    Coliai: 39.37    Pedos: 3.28    Jardai: 1.09
+Metrai: 2    Coliai: 78.74    Pedos: 6.56    Jardai: 2.19
+Metrai: 3    Coliai: 118.11    Pedos: 9.84    Jardai: 3.28
+Metrai: 4    Coliai: 157.48    Pedos: 13.12    Jardai: 4.37
+Metrai: 5    Coliai: 196.85    Pedos: 16.40    Jardai: 5.47

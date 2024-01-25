@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1698325011 source:d:\c++ projektai\aritmetikos uþduotys\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+

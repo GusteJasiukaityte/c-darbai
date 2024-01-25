@@ -1,0 +1,3 @@
+Per mokslo metus mokiniai perskaitė knygų: 65
+Per mokslo metus mokinys vidutiniškai perskaitė: 13
+Per mėnesį mokinys vidutiniškai perskaitė: 1.3

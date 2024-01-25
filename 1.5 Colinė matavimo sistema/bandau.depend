@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1703007823 source:d:\c++ projektai\bandau\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1703008409 source:d:\c++ projektai\1.5 colinë matavimo sistema\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

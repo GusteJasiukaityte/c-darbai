@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1700741548 source:d:\c++ projektai\uþduotis 5\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+

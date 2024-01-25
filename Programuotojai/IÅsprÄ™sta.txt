@@ -1,0 +1,7 @@
+1 programuotojas 11
+2 programuotojas 12
+3 programuotojas 7
+4 programuotojas 9
+5 programuotojas 7
+Viso išspręsta 46
+Vidutiniškai 1 išsprendė 2.7

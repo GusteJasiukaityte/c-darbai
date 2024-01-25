@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1702489322 source:d:\c++ projektai\1.4 siena\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<unistd.h>
+
